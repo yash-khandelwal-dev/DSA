@@ -32,8 +32,7 @@ Each folder contains Java files with:
  * Platform: LeetCode  
  * Difficulty:  
  * Author: Yash Khandelwal  
- * Language: Java  
- *  
+ * Language: Java 
  * Time Complexity:  
 
 ---
