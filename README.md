@@ -27,7 +27,7 @@ Each folder contains Java files with:
 
 ## 📝 File Template Used
 
-/**
+
  * Problem:  
  * Platform: LeetCode  
  * Difficulty:  
@@ -35,7 +35,6 @@ Each folder contains Java files with:
  * Language: Java  
  *  
  * Time Complexity:  
- */
 
 ---
 
