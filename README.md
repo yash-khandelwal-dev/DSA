@@ -8,7 +8,8 @@ written in **Java** and organized by topic for clean navigation and revision.
 ## 📁 Folder Structure
 
 arrays/        → Array-based problems  
-strings/       → String manipulation  
+strings/       → String manipulation
+math/          → Math and numerical problems
 twopointers/   → Two-pointer techniques  
 searching/     → Searching algorithms  
 sorting/       → Sorting algorithms  
@@ -17,8 +18,9 @@ linkedlist/    → Linked list problems
 misc/          → Other miscellaneous problems  
 
 Each folder contains Java files with:
-- Problem name  
-- Platform (LeetCode / CodeStudio / GeeksforGeeks)  
+- Problem name
+- Problem link
+- Platform (LeetCode / GeeksforGeeks)  
 - Difficulty level  
 - Time complexity  
 - Clean and structured solution  
@@ -28,7 +30,8 @@ Each folder contains Java files with:
 ## 📝 File Template Used
 
 
- * Problem:  
+ * Problem:
+ * Problem Link:
  * Platform: LeetCode  
  * Difficulty:  
  * Author: Yash Khandelwal  
