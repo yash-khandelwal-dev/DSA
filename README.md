@@ -7,15 +7,15 @@ written in **Java** and organized by topic for clean navigation and revision.
 
 ## 📁 Folder Structure
 
-arrays/        → Array-based problems  
-strings/       → String manipulation
-math/          → Math and numerical problems
-twopointers/   → Two-pointer techniques  
-searching/     → Searching algorithms  
-sorting/       → Sorting algorithms  
-recursion/     → Recursion & backtracking  
-linkedlist/    → Linked list problems  
-misc/          → Other miscellaneous problems  
+- arrays/        → Array-based problems  
+- strings/       → String manipulation
+- math/          → Math and numerical problems
+- twopointers/   → Two-pointer techniques  
+- searching/     → Searching algorithms  
+- sorting/       → Sorting algorithms  
+- recursion/     → Recursion & backtracking  
+- linkedlist/    → Linked list problems  
+- misc/          → Other miscellaneous problems  
 
 Each folder contains Java files with:
 - Problem name
