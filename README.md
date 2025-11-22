@@ -10,7 +10,8 @@ written in **Java** and organized by topic for clean navigation and revision.
 - arrays/        → Array-based problems  
 - strings/       → String manipulation
 - math/          → Math and numerical problems
-- twopointers/   → Two-pointer techniques  
+- twopointers/   → Two-pointer techniques 
+- binarysearch/  → Binary Search algorithms  
 - searching/     → Searching algorithms  
 - sorting/       → Sorting algorithms  
 - recursion/     → Recursion & backtracking  
